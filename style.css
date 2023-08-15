@@ -22,7 +22,7 @@
 }
 body {
     background: var(--Background);
-    /* overflow-x: hidden; */
+    overflow-x: hidden; 
     font-family: "Overpass", sans-serif;
 }
 header{
